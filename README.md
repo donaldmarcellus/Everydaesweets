@@ -1,2 +1,2 @@
 # Everydaesweets
-Landing page for local baking bussiness
+Landing page for local baking business
